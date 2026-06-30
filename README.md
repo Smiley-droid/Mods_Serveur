@@ -1,42 +1,39 @@
 # 🎮 Mods_Serveur
 
-## Description
+Ce dépôt contient les fichiers de mods utilisés pour le serveur Minecraft basé sur NeoForge 1.21.1.
 
-Ce répertoire contient l'ensemble des mods du serveur Minecraft Neoforge 1.21.1. 
+## Objectif
 
-**Gestion automatisée** : Tous les mods sont recherchés et mis à jour automatiquement via un mod Neoforge dédié. Aucune intervention manuelle n'est requise pour maintenir la collection à jour.
+Centraliser les mods du serveur dans un dépôt unique afin de les conserver, les partager et les mettre à jour plus facilement.
 
-## 📋 Mods Installés
+## Contenu du dépôt
 
-### Contenu du dossier `/Mods/`
+- Le dossier [Mods](Mods) contient les fichiers .jar des mods utilisés par le serveur.
+- La version cible est Minecraft 1.21.1 avec NeoForge.
+- Les mods couvrent plusieurs catégories : performance, qualité de vie, aventure, contenu et utilitaires.
 
-Le dossier contient plus de 50 mods Neoforge 1.21.1 incluant :
+## Installation
 
-- **Optimisations** : ImmediatelyFast, Lithium, Embeddium, Dynamic FPS, Ferritecore
-- **Contenu** : Biomes O'Plenty, Better End, Ice and Fire, Farmers Delight, Small Ships
-- **Exploration & Aventure** : YungsBridge, YungsBetterNetherFortresses, YungsBetterStrongholds, Gravestone
-- **Interface** : JourneyMap, Just Enough Items (JEI)
-- **Utilitaires** : Sophisticated Backpacks, Sophisticated Core, Body Health, GeckoLib
+1. Copier le dossier [Mods](Mods) dans le répertoire du serveur Minecraft.
+2. Vérifier que le serveur utilise bien NeoForge 1.21.1.
+3. Démarrer le serveur pour charger les mods.
 
-### Gestion des mods
+## Structure du dépôt
 
-- 🔄 **Mise à jour automatique** : Un mod Neoforge de gestion met à jour automatiquement tous les mods
-- 📦 **Format** : Tous les mods sont au format `.jar` compatible Neoforge
-- 🎯 **Version** : Minecraft 1.21.1
-- ✅ **Validité** : Les mods sont vérifiés et mis à jour régulièrement
+- [Mods](Mods) : ensemble des mods disponibles pour le serveur.
+- [README.md](README.md) : documentation du dépôt.
 
-## 🚀 Utilisation
+## Modifications récentes
 
-1. Placer le dossier `/Mods/` dans le répertoire de votre serveur Minecraft
-2. Le mod de gestion Neoforge détectera automatiquement les mods et les mettra à jour
-3. Aucune configuration manuelle supplémentaire n'est nécessaire
+- Ajout du mod Easy Mob Farm.
+- Ajout du mod Secure Trade.
 
-## 📝 Notes
+## Notes
 
-- Tous les mods sont compatibles Neoforge 1.21.1
-- Les mises à jour sont appliquées automatiquement par le système de gestion des mods
-- Le répertoire est maintenu à jour de manière continue
+- Les fichiers présents dans le dossier [Mods](Mods) sont destinés à être utilisés tels quels.
+- En cas de mise à jour, il suffit de remplacer les anciens fichiers .jar par les nouveaux.
+- Ce dépôt est maintenu pour accompagner le serveur de manière simple et fiable.
 
 ---
 
-**Dernière mise à jour** : Juin 2026
+Dernière mise à jour : Juin 2026
