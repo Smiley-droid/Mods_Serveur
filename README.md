@@ -8,19 +8,19 @@ Centraliser les mods du serveur dans un dépôt unique afin de les conserver, le
 
 ## Contenu du dépôt
 
-- Le dossier [Mods](Mods) contient les fichiers .jar des mods utilisés par le serveur.
+- Le dossier [Mods_Serveur](Mods_Serveur) contient les fichiers .jar des mods utilisés par le serveur.
 - La version cible est Minecraft 1.21.1 avec NeoForge.
 - Les mods couvrent plusieurs catégories : performance, qualité de vie, aventure, contenu et utilitaires.
 
 ## Installation
 
-1. Copier le dossier [Mods](Mods) dans le répertoire du serveur Minecraft.
+1. Copier le contenu du dossier [Mods_Serveur](Mods_Serveur) dans le répertoire mods du serveur Minecraft.
 2. Vérifier que le serveur utilise bien NeoForge 1.21.1.
 3. Démarrer le serveur pour charger les mods.
 
 ## Structure du dépôt
 
-- [Mods](Mods) : ensemble des mods disponibles pour le serveur.
+- [Mods_Serveur](Mods_Serveur) : ensemble des mods disponibles pour le serveur.
 - [README.md](README.md) : documentation du dépôt.
 
 ## Modifications récentes
